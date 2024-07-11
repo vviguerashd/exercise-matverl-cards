@@ -5,12 +5,13 @@
 body{
     display: flex;
     background-color: antiquewhite;
+    
 }
 .hulk-card{
     background-color: rgb(15, 223, 223);
     width: 300px;
     height: 600px;
-    margin: 20px;
+    margin: 20px auto;
     border: 6px solid black;
     box-sizing: border-box;
 }
@@ -109,7 +110,7 @@ footer .cent{
     background-color: rgb(15, 223, 223);
     width: 300px;
     height: 600px;
-    margin: 20px;
+    margin: 20px auto;
     border: 6px solid black;
     box-sizing: border-box;
 }
@@ -202,7 +203,7 @@ footer .cent{
     background-color: rgb(160 31 41);
     width: 300px;
     height: 600px;
-    margin: 20px;
+    margin: 20px auto;
     border: 6px solid black;
     box-sizing: border-box;
 }
